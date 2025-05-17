@@ -14,7 +14,7 @@ A simple and responsive fashion e-commerce landing page built with **HTML** and 
 ## 📸 Preview
 
 
-![image alt](https://github.com/parmarkalpesh/LandingPage/blob/29c3eb9e2481a469a4bffede4ee577d5c20a9f83/images/ScreenShort.png)
+![Screenshot of Webpage](https://raw.githubusercontent.com/parmarkalpesh/LandingPage/f7baf1cc24d5a1238009d2e7b085d3d5a3a86ff5/images/screenshortwebpage.png)
 
 
 ## 🚀 Getting Started
