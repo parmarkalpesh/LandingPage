@@ -13,7 +13,8 @@ A simple and responsive fashion e-commerce landing page built with **HTML** and 
 
 ## 📸 Preview
 
-![127 0 0 1_5500_index html](https://github.com/user-attachments/assets/a18e9fa2-f7ae-4bc6-912f-e623848b5a91)
+![Landing Page Screenshot](images/ScreenShort.png)
+
 
 
 ## 🚀 Getting Started
